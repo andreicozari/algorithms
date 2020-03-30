@@ -40,6 +40,20 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
+        <!-- Add cucumber for BDD testing -->
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <scope>test</scope>
+            <version>1.0.11</version>
+        </dependency>
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-jvm</artifactId>
+            <version>1.0.11</version>
+            <type>pom</type>
+        </dependency>
     </dependencies>
 
     <build>

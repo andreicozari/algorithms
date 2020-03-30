@@ -1,6 +1,6 @@
 package com.algorithms;
 
-import com.algorithms.services.search.BinarySearchService;
+import com.algorithms.search.BinarySearchService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.algorithms.services.search;
+package com.algorithms.search;
 
 import org.springframework.stereotype.Service;
 
